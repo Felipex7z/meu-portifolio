@@ -359,7 +359,8 @@ max-width: 600px;
 }
 /*minhas especialidades*/
 .especialidades{
-  padding: 40px 4%;
+  
+  padding: 70px 4%;
   background: #000000;
 }
 h2.titulo {
@@ -393,6 +394,9 @@ section.especiliadades .flex {
   font-size: 28px;
   margin: 15px 0;
 }
+.especialidades .especialidades-box p{
+  font-size: 21px;
+}
 section.sobre {
   padding: 80px 4%;
 }
@@ -420,6 +424,7 @@ section.sobre .flex {
 .sobre .txt-sobre p {
   margin: 20px 0;
   text-align: justify;
+  
 }
 
 .btn-social button {
