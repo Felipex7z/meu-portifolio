@@ -119,8 +119,9 @@ max-width: 600px;
 }
 .home-content span{
   font-size: large;
-  font-weight: bolder;
-  font-size: 17px;
+  font-weight: bold;
+  font-size: 12px;
+  
   
 }
 .home-content h1{
@@ -159,9 +160,11 @@ max-width: 600px;
   animation-delay: 1.3s;
 }
 .home-content p{
+  
+  text-align: justify;
   position: relative;
   font-size: 16px;
-  margin: 20px 0 40px;
+  margin: 50px 0 60px;
 }
 .home-content p::before{
   content: '';
@@ -563,7 +566,7 @@ footer .line-footer p a {
     
   }
   .home-sci{
-    margin-top: 120px;
+    margin-top: 90px;
     position: relative;
     
   }
